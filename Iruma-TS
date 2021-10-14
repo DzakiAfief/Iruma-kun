@@ -1,0 +1,17 @@
+{
+  "title": "Iruma-kun",
+  "description": "@IrumaTempatSinggah",
+  "artist": "Osamu Nishi",
+  "author": "Osamu Nishi",
+  "cover": "https://i.imgur.com/DK4LKnJ.jpg",
+  "chapters": {
+    "223": {
+      "title": "The Fledgeling Demons Assemble",
+      "volume": "22",
+      "groups": {
+        "TempatSinggah": "/proxy/api/imgur/chapter/vHp4hez/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
