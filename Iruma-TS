@@ -39,9 +39,17 @@
     },
     "227": {
       "title": "Team Valac",
-      "volume": "22",
+      "volume": "23",
       "groups": {
         "TempatSinggah": "/proxy/api/imgur/chapter/fGr6ir6/"
+      },
+      "last_updated": "1616368746"
+    },
+    "228": {
+      "title": "What My Ability's For",
+      "volume": "23",
+      "groups": {
+        "TempatSinggah": "/proxy/api/imgur/chapter/yTQOjVy/"
       },
       "last_updated": "1616368746"
     }
